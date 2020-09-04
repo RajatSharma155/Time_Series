@@ -12,7 +12,7 @@ from datetime import datetime
 
 # Ploting the Date-Time Graph
 plt.xlabel("UTC Date")
-plt.ylabel("Demand of Electricity")
+plt.ylabel("Global average temp")
 plt.plot(sales)
 plt.show()
 
